@@ -5,3 +5,7 @@
 ```
 console.log("Hello world!")
 ```
+
+- [ ] Do breakfast
+- [ ] Do homework
+- [x] Code some examples
